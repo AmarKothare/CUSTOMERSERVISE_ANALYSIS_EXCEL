@@ -1,0 +1,29 @@
+Nile- E- commerce company
+Ivision -Analytical Firm
+
+Dataset- customer service data
+
+
+
+
+
+Business Objective:
+The analysis aims to leverage data-driven approaches to optimize customer service processes,
+enhance customer experience, and drive overall business growth
+
+Project Goals:
+
+Customer Sentiment Analysis:
+Root Cause Analysis
+Service Response Time Analysis
+Customer Segmentation
+Trends and Patterns Identification
+
+Ivision needs to Provide a Dashboard and a report
+
+
+
+
+Concepts thet can be used/not?
+
+Can I Use What if Analysis over this dataset
